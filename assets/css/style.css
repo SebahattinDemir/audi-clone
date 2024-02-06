@@ -82,3 +82,32 @@ a {
 .main-navbar .navbar-brand {
   z-index: 1046;
 }
+
+.main-navbar .toolbar{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.main-navbar .toolbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.main-navbar .toolbar .v-line{
+    width: 1px;
+    height: 30px;
+    background-color: black;
+}
+
+.main-navbar .toolbar img{
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
