@@ -1,3 +1,5 @@
+/*! COMMON */
+
 @font-face {
   font-family: AudiType-Normal;
   src: local("AudiType-Normal"),
@@ -51,4 +53,32 @@
     url(assets/fonts/AudiType-WideBold.ttf) format("ttf");
   font-weight: 400;
   font-style: normal;
+}
+
+body {
+  font-family: "AudiType-WideNormal";
+}
+
+a {
+  text-decoration: none;
+}
+
+/*! NAVBAR */
+
+.main-navbar .offcanvas.offcanvas-top {
+  height: auto;
+}
+
+.main-navbar .navbar-toggler {
+  border: none;
+  font-size: 16px;
+  z-index: 1046;
+}
+
+.main-navbar .navbar-toggler:focus {
+  box-shadow: none;
+}
+
+.main-navbar .navbar-brand {
+  z-index: 1046;
 }
