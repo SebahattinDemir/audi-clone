@@ -1,0 +1,54 @@
+@font-face {
+  font-family: AudiType-Normal;
+  src: local("AudiType-Normal"),
+    url(assets/fonts/AudiType-Normal.woff2) format("woff2"),
+    url(assets/fonts/AudiType-Normal.woff) format("woff"),
+    url(assets/fonts/AudiType-Normal.ttf) format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: AudiType-Bold;
+  src: local("AudiType-Bold"),
+    url(assets/fonts/AudiType-Bold.woff2) format("woff2"),
+    url(assets/fonts/AudiType-Bold.woff) format("woff"),
+    url(assets/fonts/AudiType-Bold.ttf) format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: AudiType-ExtendedNormal;
+  src: local("AudiType-ExtendedNormal"),
+    url(assets/fonts/AudiType-ExtendedNormal.woff2) format("woff2"),
+    url(assets/fonts/AudiType-ExtendedNormal.woff) format("woff"),
+    url(assets/fonts/AudiType-ExtendedNormal.ttf) format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: AudiType-ExtendedBold;
+  src: local("AudiType-ExtendedBold"),
+    url(assets/fonts/AudiType-ExtendedBold.woff2) format("woff2"),
+    url(assets/fonts/AudiType-ExtendedBold.woff) format("woff"),
+    url(assets/fonts/AudiType-ExtendedBold.ttf) format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: AudiType-WideNormal;
+  src: local("AudiType-WideNormal"),
+    url(assets/fonts/AudiType-WideNormal.woff2) format("woff2"),
+    url(assets/fonts/AudiType-WideNormal.woff) format("woff"),
+    url(assets/fonts/AudiType-WideNormal.ttf) format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: AudiType-WideBold;
+  src: local("AudiType-WideBold"),
+    url(assets/fonts/AudiType-WideBold.woff2) format("woff2"),
+    url(assets/fonts/AudiType-WideBold.woff) format("woff"),
+    url(assets/fonts/AudiType-WideBold.ttf) format("ttf");
+  font-weight: 400;
+  font-style: normal;
+}
