@@ -4,12 +4,12 @@ Bu proje, HTML, CSS ve Bootstrap kullanılarak oluşturulan Audi.com sitesinin h
 
 ## Ekran Görüntüleri
 
-https://github.com/SebahattinDemir/audi-clone/blob/main/assets/1.png
-[![Audi.com Homepage]()](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/2.png)
-[![Audi.com Homepage]()](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/3.png)
-[![Audi.com Homepage]()](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/4.png)
-[![Audi.com Homepage]()](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/5.png)
-[![Audi.com Homepage]()](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/6.png)
+[![Audi.com Homepage 1](assets/1.png)](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/1.png)
+[![Audi.com Homepage 2](assets/2.png)](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/2.png)
+[![Audi.com Homepage 3](assets/3.png)](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/3.png)
+[![Audi.com Homepage 4](assets/4.png)](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/4.png)
+[![Audi.com Homepage 5](assets/5.png)](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/5.png)
+[![Audi.com Homepage 6](assets/6.png)](https://github.com/SebahattinDemir/audi-clone/blob/main/assets/6.png)
 
 
 ## Proje Tanımı
